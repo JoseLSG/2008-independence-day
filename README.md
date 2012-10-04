@@ -70,7 +70,7 @@ Required Licensing
 Story Synopsis
 --------------
 
-	Aliens have invaded Earth in the attempt to annihilate mankind. All attempts to fight back with conventional weapons fail until a computer virus, capable of neutralizing the Alien shields, is created by David Levinson. Captain Steven Hiller, accompanied by David Levinson, is sent on a suicide mission to upload the virus to the Alien mothership. Once the virus is uploaded, Thomas J. Whitmore (the President of the United-States), unites the world for one last attack against the invading aliens ships where Russell Casse gives his life to save the world.
+Aliens have invaded Earth in the attempt to annihilate mankind. All attempts to fight back with conventional weapons fail until a computer virus, capable of neutralizing the Alien shields, is created by David Levinson. Captain Steven Hiller, accompanied by David Levinson, is sent on a suicide mission to upload the virus to the Alien mothership. Once the virus is uploaded, Thomas J. Whitmore (the President of the United-States), unites the world for one last attack against the invading aliens ships where Russell Casse gives his life to save the world.
 
 Characters
 ----------
